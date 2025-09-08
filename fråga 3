@@ -1,3 +1,4 @@
 Github = samarbete på ett smidigt sätt. Det är en enkel väg att samrbete med andra. Alla i gruppen har insyn i vad som görs och kan se justeringar och ändringar. Exempel : om jag får en gruppupggfit att skapa en app kan jag bygga på ena sidan av appen medan mina klasskompisar bygger på den andra sidan. Vi stör inte varandra och sedan kan vi slå ihop allt med hjälp av GitHub. Pull requests är när du är färdig med dina ändringar och kan lägga in dom i huvudprojektet. En merge innebär att ändringarna godkänndes och kan blanda ihop med huvudprojektet. Branches är som egen kopia av projektet där du kan testa nya ideer utan att röra huvudprojektet.  
 
  
+.
