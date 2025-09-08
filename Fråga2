@@ -1,0 +1,3 @@
+fråga 2 Vad är Git - commit och varför är det viktigt? 
+
+Git- commit är när man skapar filer och gör en ändring. Då ska man markera/beskriva ändringen, som jag gjorde till exempel. Jag råkade spara en README- fil men ändra till svar-md och beskrev att jag bytte namn. Då ser man tydligt att jag har fixat ett problem. Git - commit är en sparpunkt i koden man kan alltid gå tillbaka till en tidigare version. Det är också ett sätt att överblicka problemet, justera, markera och samarbeta med andra utan att mixa ihop koden. 
